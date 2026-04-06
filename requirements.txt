@@ -1,9 +1,0 @@
-#fastapi
-pandas
-seaborn
-cloudpickle
-scikit-learn
-matplotlib
-imblearn
-shap
-joblib
