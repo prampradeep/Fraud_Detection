@@ -1,0 +1,11 @@
+#fastapi
+pandas
+seaborn
+cloudpickle
+scikit-learn
+matplotlib
+imblearn
+shap
+joblib
+xgboost
+PyArrow>= 4.0.0
